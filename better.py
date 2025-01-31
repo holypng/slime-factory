@@ -51,10 +51,6 @@ class Inventory:
         self.slimes = []
         self.money = 0
         self.combat_slime = None
-    """def add_slime(self, slime):
-        self.slimes.append(slime)
-    def remove_slime(self, slime):
-        self.slimes.remove(slime)"""
     def sell_slime(self, slime):
         value = slime.get_value()
         self.money += value
