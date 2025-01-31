@@ -1,0 +1,6 @@
+-Game is good, illegible though
+-Gameplay is bad 
+-Colorama unnecessary imo, might as well switch to HTMl/ use pygame 
+-DONT USE AI YOU WONT LEARN AS MUCH. THE SYSTEMS THIS GAME IS BUILT ON ARE QUITE COMPLEX, DANIEL DOESNT MAKE GAMES LIKE THESE NOR DO I
+-Its much more worth it to make games from scratch by yourself
+-Use ai for repetetive jobs/ideas/boilerplates
