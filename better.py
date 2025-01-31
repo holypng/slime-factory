@@ -443,4 +443,3 @@ while True:
         break
     else:
         print(f"{Fore.BLACK}invalid choice.{Style.RESET_ALL}")
-
